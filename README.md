@@ -40,6 +40,7 @@ Pacman-Java/
 │   ├── pinkGhost.png
 │   └── orangeGhost.png
 ├── PacMan.java
+├──  App.java
 ├── .gitignore
 └── README.md
 
